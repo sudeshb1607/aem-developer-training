@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Training - UI config</comment>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2026-02-26T14:04:49.767Z</entry>
+<entry key="groupId">com.accenture</entry>
+<entry key="name">training.ui.config</entry>
+<entry key="description">UI config package for Training</entry>
+<entry key="artifactId">training.ui.config</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.accenture</entry>
+</properties>
